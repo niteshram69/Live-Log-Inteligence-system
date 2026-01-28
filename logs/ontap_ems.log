@@ -1,0 +1,1021 @@
+<131>Jan 22 10:54:47 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_48 failed. Reason: Network timeout.
+<134>Jan 22 10:54:48 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<132>Jan 22 10:54:48 [ontap-cluster-01-02:monitor.volume.nearlyFull:WARNING]: Volume vol_marketing_39 on aggregate aggr4_ssd is 99% full.
+<134>Jan 22 10:54:48 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 10:54:48 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 244 days, 1 hours.
+<134>Jan 22 10:54:48 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 46 days, 20 hours.
+<134>Jan 22 10:54:48 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 48 days, 10 hours.
+<133>Jan 22 10:54:48 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_18.
+<133>Jan 22 10:54:48 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_20.
+<134>Jan 22 10:54:48 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 10:54:49 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 225 days, 15 hours.
+<133>Jan 22 10:54:49 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_32.
+<134>Jan 22 10:54:50 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 127 days, 15 hours.
+<133>Jan 22 10:54:51 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_18.
+<134>Jan 22 10:54:52 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 10:54:53 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<131>Jan 22 10:54:55 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_1 failed. Reason: Snapshot missing.
+<132>Jan 22 10:54:56 [ontap-cluster-02-01:monitor.volume.nearlyFull:WARNING]: Volume vol_finance_13 on aggregate aggr1_ssd is 99% full.
+<133>Jan 22 10:57:05 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_24.
+<134>Jan 22 10:57:06 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 131 days, 11 hours.
+<134>Jan 22 10:57:07 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:08 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 156 days, 8 hours.
+<133>Jan 22 10:57:09 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_18.
+<134>Jan 22 10:57:09 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<133>Jan 22 10:57:09 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_15.
+<133>Jan 22 10:57:09 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_16.
+<134>Jan 22 10:57:09 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 15 days, 18 hours.
+<134>Jan 22 10:57:09 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<131>Jan 22 10:57:09 [ontap-cluster-02-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_38 failed. Reason: Snapshot missing.
+<134>Jan 22 10:57:09 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 10:57:09 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_44.
+<134>Jan 22 10:57:10 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 194 days, 9 hours.
+<134>Jan 22 10:57:10 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<133>Jan 22 10:57:11 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_43.
+<134>Jan 22 10:57:12 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 293 days, 14 hours.
+<134>Jan 22 10:57:12 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 111 days, 0 hours.
+<133>Jan 22 10:57:13 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_43.
+<133>Jan 22 10:57:14 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_19.
+<134>Jan 22 10:57:14 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:15 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 66 days, 8 hours.
+<133>Jan 22 10:57:17 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_18.
+<134>Jan 22 10:57:17 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 10:57:18 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 10:57:18 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 10:57:19 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_15.
+<134>Jan 22 10:57:19 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 117 days, 6 hours.
+<134>Jan 22 10:57:20 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 10:57:20 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 10:57:20 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 217 days, 0 hours.
+<134>Jan 22 10:57:20 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 10:57:20 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 188 days, 23 hours.
+<133>Jan 22 10:57:20 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_15.
+<134>Jan 22 10:57:20 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 81 days, 19 hours.
+<134>Jan 22 10:57:20 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 10:57:21 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<133>Jan 22 10:57:23 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_14.
+<134>Jan 22 10:57:23 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 93 days, 3 hours.
+<134>Jan 22 10:57:24 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 10:57:24 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 10:57:25 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 297 days, 17 hours.
+<133>Jan 22 10:57:25 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_44.
+<134>Jan 22 10:57:26 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:28 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 10:57:29 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 10:57:30 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 152 days, 6 hours.
+<133>Jan 22 10:57:30 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_19.
+<134>Jan 22 10:57:30 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 10:57:32 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 10:57:32 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_20.
+<129>Jan 22 10:57:32 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 6 has failed. Chassis temperature rising.
+<132>Jan 22 10:57:34 [ontap-cluster-02-01:monitor.volume.nearlyFull:WARNING]: Volume vol_hr_12 on aggregate aggr1_sata is 99% full.
+<134>Jan 22 10:57:34 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 72 days, 12 hours.
+<133>Jan 22 10:57:35 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_13.
+<134>Jan 22 10:57:36 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 12 days, 4 hours.
+<133>Jan 22 10:57:37 [ontap-cluster-02-02:qos.latency.high:NOTICE]: Workload policy_group_2 latency is 210ms (Threshold: 20ms).
+<133>Jan 22 10:57:38 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_44.
+<134>Jan 22 10:57:38 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<133>Jan 22 10:57:39 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_30.
+<131>Jan 22 10:57:39 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_19 failed. Reason: Network timeout.
+<134>Jan 22 10:57:41 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 73 days, 21 hours.
+<134>Jan 22 10:57:41 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:41 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:41 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:41 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 10:57:41 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:41 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 10:57:41 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 10:57:42 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 10:57:43 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_12.
+<134>Jan 22 10:57:43 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 293 days, 3 hours.
+<134>Jan 22 10:57:44 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:45 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 10:57:46 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 10:57:47 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<129>Jan 22 10:57:48 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 3 has failed. Chassis temperature rising.
+<134>Jan 22 10:57:49 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 93 days, 13 hours.
+<134>Jan 22 10:57:51 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 10:57:51 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 66 days, 0 hours.
+<134>Jan 22 10:57:52 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 10:57:53 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_15.
+<134>Jan 22 10:57:53 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<133>Jan 22 10:57:54 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_33.
+<134>Jan 22 10:57:54 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 218 days, 9 hours.
+<131>Jan 22 10:57:55 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_36 failed. Reason: Snapshot missing.
+<134>Jan 22 10:57:56 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 10:57:57 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 87 days, 6 hours.
+<134>Jan 22 10:57:58 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 10:57:59 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 251 days, 18 hours.
+<134>Jan 22 10:57:59 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 10:58:00 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 10:58:01 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:31:57 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 285 days, 14 hours.
+<134>Jan 22 11:31:58 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 151 days, 16 hours.
+<134>Jan 22 11:32:00 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:01 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 196 days, 15 hours.
+<133>Jan 22 11:32:01 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_10.
+<133>Jan 22 11:32:01 [ontap-cluster-02-01:qos.latency.high:NOTICE]: Workload policy_group_2 latency is 314ms (Threshold: 20ms).
+<134>Jan 22 11:32:01 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 164 days, 11 hours.
+<134>Jan 22 11:32:01 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:01 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:01 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<133>Jan 22 11:32:01 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_31.
+<134>Jan 22 11:32:01 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 289 days, 2 hours.
+<134>Jan 22 11:32:02 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 153 days, 2 hours.
+<134>Jan 22 11:32:03 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:32:03 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:32:04 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 281 days, 7 hours.
+<134>Jan 22 11:32:05 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:32:05 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:06 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<133>Jan 22 11:32:07 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_37.
+<134>Jan 22 11:32:07 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:32:09 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:09 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:32:10 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 274 days, 16 hours.
+<134>Jan 22 11:32:11 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 186 days, 4 hours.
+<133>Jan 22 11:32:12 [ontap-cluster-02-02:qos.latency.high:NOTICE]: Workload policy_group_3 latency is 140ms (Threshold: 20ms).
+<134>Jan 22 11:32:12 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:13 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:14 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:15 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:32:15 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:17 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:32:18 [ontap-cluster-02-02:qos.latency.high:NOTICE]: Workload policy_group_4 latency is 192ms (Threshold: 20ms).
+<133>Jan 22 11:32:19 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_39.
+<134>Jan 22 11:32:20 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 128 days, 3 hours.
+<134>Jan 22 11:32:20 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:21 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 261 days, 0 hours.
+<134>Jan 22 11:32:23 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 278 days, 5 hours.
+<129>Jan 22 11:32:24 [ontap-cluster-01-01:chassis.fan.failure:ALERT]: Fan module 1 has failed. Chassis temperature rising.
+<134>Jan 22 11:32:25 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<129>Jan 22 11:32:26 [ontap-cluster-02-02:chassis.fan.failure:ALERT]: Fan module 1 has failed. Chassis temperature rising.
+<134>Jan 22 11:32:28 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:32:28 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_49.
+<134>Jan 22 11:32:29 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:32:29 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:32:30 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 133 days, 7 hours.
+<134>Jan 22 11:32:30 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:32:32 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_4.
+<134>Jan 22 11:32:32 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:32 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:34 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 256 days, 4 hours.
+<134>Jan 22 11:32:34 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:34 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:34 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:32:34 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:32:34 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 179 days, 21 hours.
+<134>Jan 22 11:32:34 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:32:34 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 211 days, 7 hours.
+<134>Jan 22 11:32:34 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:34 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:34 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:32:35 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:32:36 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_48.
+<134>Jan 22 11:32:37 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:37 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:32:37 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 268 days, 13 hours.
+<133>Jan 22 11:32:37 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_5.
+<134>Jan 22 11:32:37 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:32:37 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_36.
+<133>Jan 22 11:32:37 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_27.
+<134>Jan 22 11:32:38 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:32:39 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:32:41 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<129>Jan 22 11:32:42 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 4 has failed. Chassis temperature rising.
+<133>Jan 22 11:32:42 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_13.
+<134>Jan 22 11:32:43 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 210 days, 16 hours.
+<134>Jan 22 11:32:44 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:32:45 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_15.
+<134>Jan 22 11:32:46 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:32:48 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:48 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 170 days, 22 hours.
+<134>Jan 22 11:32:50 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 65 days, 3 hours.
+<134>Jan 22 11:32:51 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:52 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 161 days, 11 hours.
+<134>Jan 22 11:32:52 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:32:53 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 188 days, 16 hours.
+<134>Jan 22 11:32:53 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 169 days, 13 hours.
+<133>Jan 22 11:32:53 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_1.
+<134>Jan 22 11:32:53 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:32:53 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 24 days, 14 hours.
+<134>Jan 22 11:32:53 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:32:53 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 97 days, 22 hours.
+<133>Jan 22 11:32:53 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_20.
+<133>Jan 22 11:32:54 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_5.
+<133>Jan 22 11:32:54 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_48.
+<129>Jan 22 11:32:55 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 5 has failed. Chassis temperature rising.
+<134>Jan 22 11:32:56 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 250 days, 20 hours.
+<133>Jan 22 11:32:56 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_19.
+<134>Jan 22 11:32:57 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 283 days, 6 hours.
+<134>Jan 22 11:32:58 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 276 days, 6 hours.
+<134>Jan 22 11:32:58 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:32:59 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 49 days, 13 hours.
+<133>Jan 22 11:32:59 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_2.
+<129>Jan 22 11:33:00 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 6 has failed. Chassis temperature rising.
+<133>Jan 22 11:33:00 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_21.
+<134>Jan 22 11:33:01 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:33:02 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_16.
+<133>Jan 22 11:33:03 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_36.
+<134>Jan 22 11:33:03 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 47 days, 2 hours.
+<133>Jan 22 11:33:04 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_37.
+<134>Jan 22 11:33:05 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:33:06 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:07 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:33:08 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_29.
+<134>Jan 22 11:33:09 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:33:10 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_33.
+<134>Jan 22 11:33:11 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 282 days, 8 hours.
+<134>Jan 22 11:33:11 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:33:13 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:14 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:33:15 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 77 days, 5 hours.
+<134>Jan 22 11:33:16 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:33:17 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_5.
+<133>Jan 22 11:33:17 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_33.
+<134>Jan 22 11:33:18 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 120 days, 16 hours.
+<134>Jan 22 11:33:19 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:33:20 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 245 days, 4 hours.
+<134>Jan 22 11:33:21 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 131 days, 3 hours.
+<133>Jan 22 11:33:21 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_16.
+<134>Jan 22 11:33:22 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 50 days, 20 hours.
+<134>Jan 22 11:33:23 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 140 days, 14 hours.
+<134>Jan 22 11:33:24 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:24 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<133>Jan 22 11:33:24 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_48.
+<133>Jan 22 11:33:24 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_37.
+<134>Jan 22 11:33:24 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<133>Jan 22 11:33:24 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_14.
+<134>Jan 22 11:33:24 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:33:24 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:24 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 171 days, 21 hours.
+<133>Jan 22 11:33:24 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_18.
+<134>Jan 22 11:33:24 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:33:25 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:33:25 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:33:26 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 249 days, 9 hours.
+<134>Jan 22 11:33:26 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 132 days, 12 hours.
+<134>Jan 22 11:33:27 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:27 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 174 days, 16 hours.
+<134>Jan 22 11:33:28 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 268 days, 14 hours.
+<134>Jan 22 11:33:28 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:33:29 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:33:30 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:33:31 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 208 days, 22 hours.
+<134>Jan 22 11:33:31 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:33:32 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 184 days, 19 hours.
+<134>Jan 22 11:33:33 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:33:33 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:33:34 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:33:35 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<133>Jan 22 11:33:35 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_12.
+<132>Jan 22 11:33:35 [ontap-cluster-02-02:monitor.volume.nearlyFull:WARNING]: Volume vol_hr_37 on aggregate aggr2_ssd is 96% full.
+<134>Jan 22 11:33:36 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:36 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 163 days, 18 hours.
+<134>Jan 22 11:33:36 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 298 days, 14 hours.
+<134>Jan 22 11:33:36 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 249 days, 23 hours.
+<133>Jan 22 11:33:36 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_29.
+<134>Jan 22 11:33:36 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:36 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<133>Jan 22 11:33:36 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_49.
+<134>Jan 22 11:33:36 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 115 days, 14 hours.
+<133>Jan 22 11:33:37 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_33.
+<134>Jan 22 11:33:37 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:38 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:39 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 262 days, 7 hours.
+<134>Jan 22 11:33:40 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:33:41 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 239 days, 10 hours.
+<134>Jan 22 11:33:41 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:33:42 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:43 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:33:44 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<129>Jan 22 11:33:44 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 6 has failed. Chassis temperature rising.
+<134>Jan 22 11:33:45 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:33:46 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_29.
+<134>Jan 22 11:33:46 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:48 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 178 days, 16 hours.
+<134>Jan 22 11:33:49 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:33:50 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<129>Jan 22 11:33:50 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 5 has failed. Chassis temperature rising.
+<134>Jan 22 11:33:51 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:51 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:33:52 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:53 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 31 days, 5 hours.
+<133>Jan 22 11:33:53 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_41.
+<134>Jan 22 11:33:53 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:33:53 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<131>Jan 22 11:33:54 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_27 failed. Reason: Network timeout.
+<134>Jan 22 11:33:55 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:33:55 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_17.
+<133>Jan 22 11:33:56 [ontap-cluster-02-01:qos.latency.high:NOTICE]: Workload policy_group_2 latency is 225ms (Threshold: 20ms).
+<134>Jan 22 11:33:56 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<133>Jan 22 11:33:56 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_19.
+<133>Jan 22 11:33:56 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_37.
+<134>Jan 22 11:33:56 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:33:56 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 270 days, 12 hours.
+<134>Jan 22 11:33:56 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:33:57 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 130 days, 20 hours.
+<134>Jan 22 11:33:58 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<133>Jan 22 11:33:58 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_7.
+<133>Jan 22 11:33:58 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_48.
+<134>Jan 22 11:33:58 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:58 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:33:58 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 248 days, 11 hours.
+<134>Jan 22 11:33:58 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 25 days, 23 hours.
+<134>Jan 22 11:33:58 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:33:58 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:33:59 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 211 days, 21 hours.
+<133>Jan 22 11:34:00 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_5.
+<134>Jan 22 11:34:01 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<131>Jan 22 11:34:02 [ontap-cluster-02-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_26 failed. Reason: Network timeout.
+<133>Jan 22 11:34:03 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_6.
+<134>Jan 22 11:34:04 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 70 days, 19 hours.
+<134>Jan 22 11:34:05 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:05 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:34:05 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<131>Jan 22 11:34:05 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_16 failed. Reason: Snapshot missing.
+<133>Jan 22 11:34:05 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_33.
+<134>Jan 22 11:34:05 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:34:05 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<133>Jan 22 11:34:06 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_23.
+<134>Jan 22 11:34:07 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 129 days, 15 hours.
+<134>Jan 22 11:34:08 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 160 days, 2 hours.
+<133>Jan 22 11:34:08 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_39.
+<134>Jan 22 11:34:08 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:09 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 49 days, 10 hours.
+<134>Jan 22 11:34:09 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:10 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:10 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<132>Jan 22 11:34:12 [ontap-cluster-01-01:monitor.volume.nearlyFull:WARNING]: Volume vol_marketing_49 on aggregate aggr3_ssd is 98% full.
+<134>Jan 22 11:34:13 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:34:13 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:34:14 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:15 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<133>Jan 22 11:34:16 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_42.
+<134>Jan 22 11:34:18 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<133>Jan 22 11:34:19 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_41.
+<134>Jan 22 11:34:19 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:34:20 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 283 days, 15 hours.
+<131>Jan 22 11:34:21 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_34 failed. Reason: Snapshot missing.
+<134>Jan 22 11:34:23 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:24 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 299 days, 21 hours.
+<134>Jan 22 11:34:25 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 21 days, 18 hours.
+<132>Jan 22 11:34:26 [ontap-cluster-01-02:monitor.volume.nearlyFull:WARNING]: Volume vol_marketing_26 on aggregate aggr1_sata is 98% full.
+<131>Jan 22 11:34:26 [ontap-cluster-02-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_40 failed. Reason: Network timeout.
+<134>Jan 22 11:34:26 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:34:26 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:26 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 249 days, 16 hours.
+<134>Jan 22 11:34:26 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 244 days, 6 hours.
+<134>Jan 22 11:34:26 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:27 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:28 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<131>Jan 22 11:34:29 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_44 failed. Reason: Snapshot missing.
+<134>Jan 22 11:34:30 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:34:30 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:31 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:33 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:34:34 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:34:34 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 202 days, 14 hours.
+<134>Jan 22 11:34:35 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 65 days, 15 hours.
+<134>Jan 22 11:34:36 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 146 days, 7 hours.
+<134>Jan 22 11:34:37 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:37 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:38 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 102 days, 12 hours.
+<129>Jan 22 11:34:39 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 4 has failed. Chassis temperature rising.
+<133>Jan 22 11:34:39 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_29.
+<134>Jan 22 11:34:40 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:34:40 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 70 days, 13 hours.
+<134>Jan 22 11:34:42 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 153 days, 6 hours.
+<131>Jan 22 11:34:43 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_20 failed. Reason: Network timeout.
+<134>Jan 22 11:34:43 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:34:44 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:45 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:34:45 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 233 days, 14 hours.
+<133>Jan 22 11:34:46 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_16.
+<133>Jan 22 11:34:47 [ontap-cluster-01-02:qos.latency.high:NOTICE]: Workload policy_group_4 latency is 65ms (Threshold: 20ms).
+<134>Jan 22 11:34:47 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:34:47 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:48 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:34:49 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 92 days, 23 hours.
+<131>Jan 22 11:34:50 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_26 failed. Reason: Transfer stalled.
+<134>Jan 22 11:34:50 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 163 days, 16 hours.
+<134>Jan 22 11:34:51 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 245 days, 12 hours.
+<134>Jan 22 11:34:52 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 24 days, 3 hours.
+<134>Jan 22 11:34:54 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 162 days, 19 hours.
+<134>Jan 22 11:34:54 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:34:54 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:34:54 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:34:55 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 28 days, 15 hours.
+<133>Jan 22 11:34:56 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_16.
+<134>Jan 22 11:34:57 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<133>Jan 22 11:34:58 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_50.
+<134>Jan 22 11:34:58 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:34:59 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 185 days, 17 hours.
+<134>Jan 22 11:35:00 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 47 days, 16 hours.
+<133>Jan 22 11:35:00 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_2.
+<133>Jan 22 11:35:02 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_37.
+<134>Jan 22 11:35:02 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:35:03 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:35:03 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_22.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:35:04 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 164 days, 10 hours.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 282 days, 4 hours.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 183 days, 9 hours.
+<134>Jan 22 11:35:04 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 264 days, 21 hours.
+<134>Jan 22 11:35:04 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:35:04 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:35:05 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_36.
+<134>Jan 22 11:35:06 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 100 days, 7 hours.
+<134>Jan 22 11:35:07 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:35:09 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:09 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:35:09 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:35:09 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 105 days, 11 hours.
+<134>Jan 22 11:35:09 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:35:09 [ontap-cluster-01-01:qos.latency.high:NOTICE]: Workload policy_group_3 latency is 464ms (Threshold: 20ms).
+<134>Jan 22 11:35:09 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:35:09 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<133>Jan 22 11:35:09 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_35.
+<133>Jan 22 11:35:09 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_20.
+<134>Jan 22 11:35:10 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:11 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:12 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:35:13 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:13 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 83 days, 16 hours.
+<134>Jan 22 11:35:14 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:14 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 82 days, 2 hours.
+<134>Jan 22 11:35:14 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<131>Jan 22 11:35:15 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_33 failed. Reason: Network timeout.
+<134>Jan 22 11:35:16 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:17 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 32 days, 0 hours.
+<134>Jan 22 11:35:18 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 62 days, 1 hours.
+<133>Jan 22 11:35:20 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_1.
+<134>Jan 22 11:35:20 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:35:20 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_47.
+<133>Jan 22 11:35:20 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_26.
+<133>Jan 22 11:35:20 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_2.
+<134>Jan 22 11:35:20 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 21 days, 19 hours.
+<133>Jan 22 11:35:20 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_39.
+<133>Jan 22 11:35:20 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_35.
+<134>Jan 22 11:35:20 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 190 days, 16 hours.
+<133>Jan 22 11:35:21 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_11.
+<133>Jan 22 11:35:22 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_14.
+<134>Jan 22 11:35:23 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 237 days, 16 hours.
+<133>Jan 22 11:35:24 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_26.
+<134>Jan 22 11:35:25 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<129>Jan 22 11:35:26 [ontap-cluster-02-02:chassis.fan.failure:ALERT]: Fan module 3 has failed. Chassis temperature rising.
+<133>Jan 22 11:35:28 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_9.
+<134>Jan 22 11:35:29 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:29 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:35:29 [ontap-cluster-01-02:qos.latency.high:NOTICE]: Workload policy_group_1 latency is 160ms (Threshold: 20ms).
+<134>Jan 22 11:35:29 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:35:30 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:31 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:31 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:35:31 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:31 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 213 days, 23 hours.
+<134>Jan 22 11:35:31 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 120 days, 8 hours.
+<134>Jan 22 11:35:31 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:31 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:32 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<133>Jan 22 11:35:33 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_37.
+<134>Jan 22 11:35:34 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:35 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 201 days, 17 hours.
+<133>Jan 22 11:35:36 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_30.
+<134>Jan 22 11:35:36 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 84 days, 13 hours.
+<134>Jan 22 11:35:36 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:35:36 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:35:36 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 51 days, 5 hours.
+<133>Jan 22 11:35:36 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_5.
+<133>Jan 22 11:35:36 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_48.
+<134>Jan 22 11:35:36 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:35:36 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_8.
+<134>Jan 22 11:35:37 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 39 days, 10 hours.
+<133>Jan 22 11:35:38 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_10.
+<134>Jan 22 11:35:38 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 11:35:38 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_9.
+<133>Jan 22 11:35:38 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_50.
+<133>Jan 22 11:35:38 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_46.
+<133>Jan 22 11:35:38 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_47.
+<134>Jan 22 11:35:38 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:35:38 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 31 days, 6 hours.
+<133>Jan 22 11:35:38 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_7.
+<134>Jan 22 11:35:38 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 257 days, 15 hours.
+<131>Jan 22 11:35:40 [ontap-cluster-02-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_43 failed. Reason: Network timeout.
+<134>Jan 22 11:35:40 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 231 days, 17 hours.
+<134>Jan 22 11:35:41 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 162 days, 2 hours.
+<134>Jan 22 11:35:41 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 73 days, 9 hours.
+<134>Jan 22 11:35:41 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 249 days, 1 hours.
+<133>Jan 22 11:35:43 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_4.
+<134>Jan 22 11:35:44 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 163 days, 13 hours.
+<133>Jan 22 11:35:44 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_47.
+<134>Jan 22 11:35:46 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 51 days, 2 hours.
+<134>Jan 22 11:35:46 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<133>Jan 22 11:35:48 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_18.
+<134>Jan 22 11:35:48 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:35:49 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 250 days, 4 hours.
+<134>Jan 22 11:35:50 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<133>Jan 22 11:35:50 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_1.
+<133>Jan 22 11:35:52 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_22.
+<134>Jan 22 11:35:52 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:35:52 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:53 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 223 days, 14 hours.
+<131>Jan 22 11:35:54 [ontap-cluster-02-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_48 failed. Reason: Snapshot missing.
+<134>Jan 22 11:35:55 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:55 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:55 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 55 days, 21 hours.
+<134>Jan 22 11:35:56 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 205 days, 18 hours.
+<134>Jan 22 11:35:56 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:35:56 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 227 days, 17 hours.
+<134>Jan 22 11:35:56 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 11:35:56 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_33.
+<129>Jan 22 11:35:56 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 1 has failed. Chassis temperature rising.
+<134>Jan 22 11:35:56 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:35:56 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:35:56 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 204 days, 16 hours.
+<134>Jan 22 11:35:57 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 258 days, 15 hours.
+<134>Jan 22 11:35:57 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:35:58 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:35:59 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:00 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:36:01 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 123 days, 21 hours.
+<134>Jan 22 11:36:01 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 238 days, 12 hours.
+<134>Jan 22 11:36:03 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:36:04 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:36:05 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 281 days, 4 hours.
+<134>Jan 22 11:36:06 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<133>Jan 22 11:36:08 [ontap-cluster-01-01:qos.latency.high:NOTICE]: Workload policy_group_2 latency is 73ms (Threshold: 20ms).
+<134>Jan 22 11:36:08 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:36:09 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_37.
+<134>Jan 22 11:36:09 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:36:09 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:36:09 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<133>Jan 22 11:36:09 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_12.
+<133>Jan 22 11:36:09 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_15.
+<134>Jan 22 11:36:09 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:36:11 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:11 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:36:12 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_22.
+<134>Jan 22 11:36:13 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 91 days, 11 hours.
+<133>Jan 22 11:36:14 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_1.
+<133>Jan 22 11:36:16 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_45.
+<134>Jan 22 11:36:17 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:36:18 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 150 days, 4 hours.
+<134>Jan 22 11:36:19 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 15 days, 1 hours.
+<133>Jan 22 11:36:20 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_46.
+<134>Jan 22 11:36:20 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:20 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:36:20 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 11 days, 0 hours.
+<134>Jan 22 11:36:20 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 172 days, 14 hours.
+<134>Jan 22 11:36:20 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 80 days, 19 hours.
+<134>Jan 22 11:36:20 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:36:20 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 287 days, 8 hours.
+<134>Jan 22 11:36:20 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:20 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 18 days, 15 hours.
+<133>Jan 22 11:36:20 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_43.
+<129>Jan 22 11:36:21 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 4 has failed. Chassis temperature rising.
+<134>Jan 22 11:36:22 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:36:23 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:36:23 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_18.
+<134>Jan 22 11:36:25 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<131>Jan 22 11:36:26 [ontap-cluster-02-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_46 failed. Reason: Transfer stalled.
+<134>Jan 22 11:36:26 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:36:28 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 165 days, 1 hours.
+<134>Jan 22 11:36:28 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:29 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:30 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:36:31 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_36.
+<133>Jan 22 11:36:32 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_14.
+<134>Jan 22 11:36:33 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:36:33 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:34 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:34 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:36:35 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_35.
+<134>Jan 22 11:36:36 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:37 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:37 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 121 days, 10 hours.
+<134>Jan 22 11:36:38 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 25 days, 8 hours.
+<134>Jan 22 11:36:38 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:36:38 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:36:38 [ontap-cluster-02-01:qos.latency.high:NOTICE]: Workload policy_group_5 latency is 458ms (Threshold: 20ms).
+<134>Jan 22 11:36:38 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:36:38 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:38 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:36:38 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:36:38 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:38 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 266 days, 22 hours.
+<128>Jan 22 11:36:38 [ontap-cluster-02-02:nvram.battery.low:EMERGENCY]: The NVRAM battery is critically low. Immediate replacement required.
+<133>Jan 22 11:36:38 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_6.
+<134>Jan 22 11:36:39 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 46 days, 2 hours.
+<134>Jan 22 11:36:39 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:36:39 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:36:39 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:39 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:39 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:36:39 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 61 days, 9 hours.
+<133>Jan 22 11:36:39 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_11.
+<134>Jan 22 11:36:39 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 117 days, 0 hours.
+<134>Jan 22 11:36:39 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 122 days, 21 hours.
+<133>Jan 22 11:36:39 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_48.
+<134>Jan 22 11:36:40 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:40 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 178 days, 6 hours.
+<133>Jan 22 11:36:41 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_50.
+<134>Jan 22 11:36:43 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:36:43 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 44 days, 15 hours.
+<134>Jan 22 11:36:45 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:36:45 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:36:46 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:36:48 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 273 days, 9 hours.
+<133>Jan 22 11:36:48 [ontap-cluster-01-01:qos.latency.high:NOTICE]: Workload policy_group_4 latency is 151ms (Threshold: 20ms).
+<134>Jan 22 11:36:50 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:36:51 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:36:52 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 133 days, 2 hours.
+<134>Jan 22 11:36:52 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:36:53 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 132 days, 20 hours.
+<134>Jan 22 11:36:54 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<133>Jan 22 11:36:55 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_19.
+<134>Jan 22 11:36:55 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 142 days, 13 hours.
+<134>Jan 22 11:36:56 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 25 days, 7 hours.
+<133>Jan 22 11:36:58 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_48.
+<134>Jan 22 11:36:59 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:36:59 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 279 days, 13 hours.
+<134>Jan 22 11:37:00 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:37:01 [ontap-cluster-01-02:qos.latency.high:NOTICE]: Workload policy_group_5 latency is 411ms (Threshold: 20ms).
+<134>Jan 22 11:37:01 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 171 days, 5 hours.
+<134>Jan 22 11:37:02 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 280 days, 19 hours.
+<134>Jan 22 11:37:02 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 153 days, 18 hours.
+<134>Jan 22 11:37:03 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:04 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:37:05 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<128>Jan 22 11:37:05 [ontap-cluster-01-01:nvram.battery.low:EMERGENCY]: The NVRAM battery is critically low. Immediate replacement required.
+<134>Jan 22 11:37:06 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:06 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 11:37:06 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_34.
+<134>Jan 22 11:37:06 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<133>Jan 22 11:37:06 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_41.
+<129>Jan 22 11:37:06 [ontap-cluster-02-01:raid.aggr.degraded:ALERT]: Aggregate aggr2_sata is degraded. rg5 is missing a disk.
+<134>Jan 22 11:37:07 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:07 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:08 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:08 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 24 days, 10 hours.
+<133>Jan 22 11:37:09 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_31.
+<134>Jan 22 11:37:11 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:12 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:13 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<133>Jan 22 11:37:14 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_40.
+<134>Jan 22 11:37:16 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 52 days, 18 hours.
+<134>Jan 22 11:37:17 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 41 days, 11 hours.
+<134>Jan 22 11:37:17 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:17 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:37:17 [ontap-cluster-01-01:qos.latency.high:NOTICE]: Workload policy_group_2 latency is 475ms (Threshold: 20ms).
+<134>Jan 22 11:37:17 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:37:17 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<133>Jan 22 11:37:17 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_31.
+<128>Jan 22 11:37:17 [ontap-cluster-01-01:nvram.battery.low:EMERGENCY]: The NVRAM battery is critically low. Immediate replacement required.
+<134>Jan 22 11:37:17 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:18 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:37:18 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 201 days, 2 hours.
+<133>Jan 22 11:37:18 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_1.
+<134>Jan 22 11:37:19 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:19 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:21 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 143 days, 18 hours.
+<133>Jan 22 11:37:21 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_4.
+<131>Jan 22 11:37:22 [ontap-cluster-02-01:disk.outOfService:ERROR]: Disk 4.9 on shelf 5 has failed and is being taken offline.
+<134>Jan 22 11:37:24 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:37:24 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_39.
+<133>Jan 22 11:37:25 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_15.
+<134>Jan 22 11:37:26 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:37:26 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:37:28 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<133>Jan 22 11:37:28 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_7.
+<134>Jan 22 11:37:28 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 97 days, 15 hours.
+<133>Jan 22 11:37:28 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_45.
+<133>Jan 22 11:37:28 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_31.
+<133>Jan 22 11:37:28 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_44.
+<133>Jan 22 11:37:28 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_31.
+<133>Jan 22 11:37:28 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_41.
+<133>Jan 22 11:37:28 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_40.
+<134>Jan 22 11:37:28 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:29 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 263 days, 8 hours.
+<133>Jan 22 11:37:29 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_2.
+<133>Jan 22 11:37:29 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_13.
+<134>Jan 22 11:37:31 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:32 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:37:33 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 241 days, 9 hours.
+<134>Jan 22 11:37:34 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 20 days, 10 hours.
+<133>Jan 22 11:37:34 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_44.
+<134>Jan 22 11:37:34 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:37:35 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_11.
+<134>Jan 22 11:37:35 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<133>Jan 22 11:37:36 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_23.
+<134>Jan 22 11:37:36 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 150 days, 15 hours.
+<134>Jan 22 11:37:37 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:37:38 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<131>Jan 22 11:37:39 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_45 failed. Reason: Network timeout.
+<134>Jan 22 11:37:39 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:39 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 13 days, 6 hours.
+<133>Jan 22 11:37:39 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_6.
+<134>Jan 22 11:37:39 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<129>Jan 22 11:37:39 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 3 has failed. Chassis temperature rising.
+<134>Jan 22 11:37:39 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:39 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:39 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:39 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 159 days, 23 hours.
+<129>Jan 22 11:37:39 [ontap-cluster-01-01:raid.aggr.degraded:ALERT]: Aggregate aggr4_ssd is degraded. rg0 is missing a disk.
+<133>Jan 22 11:37:40 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_22.
+<134>Jan 22 11:37:41 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:37:42 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:37:42 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 130 days, 20 hours.
+<134>Jan 22 11:37:43 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<131>Jan 22 11:37:44 [ontap-cluster-02-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_28 failed. Reason: Network timeout.
+<134>Jan 22 11:37:45 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:37:45 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<133>Jan 22 11:37:46 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_2.
+<134>Jan 22 11:37:47 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:47 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:48 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 235 days, 6 hours.
+<133>Jan 22 11:37:48 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_16.
+<134>Jan 22 11:37:49 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:50 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 294 days, 18 hours.
+<134>Jan 22 11:37:51 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 176 days, 9 hours.
+<133>Jan 22 11:37:52 [ontap-cluster-01-01:qos.latency.high:NOTICE]: Workload policy_group_2 latency is 270ms (Threshold: 20ms).
+<134>Jan 22 11:37:53 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<131>Jan 22 11:37:53 [ontap-cluster-02-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_2 failed. Reason: Network timeout.
+<134>Jan 22 11:37:54 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:37:54 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:37:55 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<129>Jan 22 11:37:56 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 2 has failed. Chassis temperature rising.
+<133>Jan 22 11:37:56 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_26.
+<134>Jan 22 11:37:56 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<131>Jan 22 11:37:57 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_25 failed. Reason: Network timeout.
+<133>Jan 22 11:37:57 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_25.
+<134>Jan 22 11:37:57 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 95 days, 3 hours.
+<131>Jan 22 11:37:57 [ontap-cluster-02-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_14 failed. Reason: Network timeout.
+<134>Jan 22 11:37:57 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<129>Jan 22 11:37:57 [ontap-cluster-01-01:chassis.fan.failure:ALERT]: Fan module 1 has failed. Chassis temperature rising.
+<134>Jan 22 11:37:57 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:37:57 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 263 days, 23 hours.
+<134>Jan 22 11:37:58 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:37:59 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<133>Jan 22 11:38:00 [ontap-cluster-02-02:qos.latency.high:NOTICE]: Workload policy_group_3 latency is 308ms (Threshold: 20ms).
+<134>Jan 22 11:38:02 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:38:02 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:38:02 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:02 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:02 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:02 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 162 days, 22 hours.
+<133>Jan 22 11:38:02 [ontap-cluster-02-02:qos.latency.high:NOTICE]: Workload policy_group_3 latency is 294ms (Threshold: 20ms).
+<133>Jan 22 11:38:02 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_4.
+<134>Jan 22 11:38:02 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:02 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 228 days, 11 hours.
+<133>Jan 22 11:38:02 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_22.
+<133>Jan 22 11:38:02 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_47.
+<134>Jan 22 11:38:04 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:05 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_34.
+<133>Jan 22 11:38:05 [ontap-cluster-02-01:qos.latency.high:NOTICE]: Workload policy_group_1 latency is 354ms (Threshold: 20ms).
+<133>Jan 22 11:38:06 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_14.
+<133>Jan 22 11:38:06 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_18.
+<134>Jan 22 11:38:07 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:08 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:09 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:10 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_39.
+<134>Jan 22 11:38:10 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:11 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:12 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_18.
+<134>Jan 22 11:38:12 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 11 days, 23 hours.
+<131>Jan 22 11:38:12 [ontap-cluster-02-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_48 failed. Reason: Network timeout.
+<134>Jan 22 11:38:12 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:38:12 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 116 days, 2 hours.
+<134>Jan 22 11:38:12 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 262 days, 8 hours.
+<134>Jan 22 11:38:12 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<133>Jan 22 11:38:12 [ontap-cluster-01-01:qos.latency.high:NOTICE]: Workload policy_group_4 latency is 397ms (Threshold: 20ms).
+<128>Jan 22 11:38:12 [ontap-cluster-02-01:vifMgr.lif.down:EMERGENCY]: LIF lif_data_280 (port e1b) on Vserver svm10 has gone down.
+<134>Jan 22 11:38:12 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:13 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:38:13 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 182 days, 5 hours.
+<134>Jan 22 11:38:14 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 118 days, 1 hours.
+<131>Jan 22 11:38:15 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_47 failed. Reason: Snapshot missing.
+<134>Jan 22 11:38:15 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 165 days, 19 hours.
+<129>Jan 22 11:38:16 [ontap-cluster-02-02:chassis.fan.failure:ALERT]: Fan module 1 has failed. Chassis temperature rising.
+<134>Jan 22 11:38:17 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:18 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 58 days, 9 hours.
+<134>Jan 22 11:38:19 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:38:20 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:21 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<131>Jan 22 11:38:22 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_29 failed. Reason: Transfer stalled.
+<134>Jan 22 11:38:22 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:22 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_1.
+<132>Jan 22 11:38:23 [ontap-cluster-02-02:monitor.volume.nearlyFull:WARNING]: Volume vol_eng_28 on aggregate aggr3_sata is 98% full.
+<134>Jan 22 11:38:24 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:24 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:38:25 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 16 days, 6 hours.
+<134>Jan 22 11:38:26 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:38:27 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:38:28 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:28 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:38:28 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:38:28 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:28 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:28 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:28 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_16.
+<133>Jan 22 11:38:28 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_30.
+<133>Jan 22 11:38:29 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_20.
+<129>Jan 22 11:38:30 [ontap-cluster-02-01:chassis.fan.failure:ALERT]: Fan module 2 has failed. Chassis temperature rising.
+<134>Jan 22 11:38:31 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 170 days, 4 hours.
+<133>Jan 22 11:38:31 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_3.
+<134>Jan 22 11:38:32 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:38:33 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:34 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:35 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_25.
+<134>Jan 22 11:38:36 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:38:37 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 132 days, 23 hours.
+<134>Jan 22 11:38:38 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:38:39 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:40 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:41 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_40.
+<132>Jan 22 11:38:42 [ontap-cluster-01-01:monitor.volume.nearlyFull:WARNING]: Volume vol_finance_33 on aggregate aggr2_sata is 99% full.
+<133>Jan 22 11:38:42 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_34.
+<134>Jan 22 11:38:43 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:43 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 89 days, 2 hours.
+<134>Jan 22 11:38:44 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:38:45 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:38:45 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_42.
+<134>Jan 22 11:38:46 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<133>Jan 22 11:38:47 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_1.
+<134>Jan 22 11:38:48 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 260 days, 7 hours.
+<134>Jan 22 11:38:49 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 266 days, 10 hours.
+<134>Jan 22 11:38:50 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:50 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:38:51 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<133>Jan 22 11:38:52 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_40.
+<134>Jan 22 11:38:53 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<129>Jan 22 11:38:53 [ontap-cluster-02-02:chassis.fan.failure:ALERT]: Fan module 1 has failed. Chassis temperature rising.
+<134>Jan 22 11:38:53 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:54 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 132 days, 14 hours.
+<134>Jan 22 11:38:54 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:55 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 85 days, 12 hours.
+<134>Jan 22 11:38:55 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:56 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:38:56 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 242 days, 10 hours.
+<133>Jan 22 11:38:57 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_46.
+<134>Jan 22 11:38:57 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<134>Jan 22 11:38:57 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<133>Jan 22 11:38:57 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_20.
+<134>Jan 22 11:38:57 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 217 days, 9 hours.
+<133>Jan 22 11:38:57 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_eng_12.
+<133>Jan 22 11:38:57 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_22.
+<133>Jan 22 11:38:57 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_14.
+<134>Jan 22 11:38:58 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:38:59 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:00 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:39:01 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 245 days, 20 hours.
+<134>Jan 22 11:39:01 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:02 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:02 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:39:03 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:39:04 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 64 days, 9 hours.
+<134>Jan 22 11:39:05 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 166 days, 11 hours.
+<134>Jan 22 11:39:06 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 278 days, 9 hours.
+<129>Jan 22 11:39:06 [ontap-cluster-01-01:chassis.fan.failure:ALERT]: Fan module 5 has failed. Chassis temperature rising.
+<134>Jan 22 11:39:06 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:39:07 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 121 days, 21 hours.
+<134>Jan 22 11:39:07 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:08 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:39:08 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 246 days, 1 hours.
+<134>Jan 22 11:39:08 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:08 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:39:08 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 268 days, 4 hours.
+<134>Jan 22 11:39:08 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 71 days, 9 hours.
+<134>Jan 22 11:39:08 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:39:08 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:09 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:09 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:39:10 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:12 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:12 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:12 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:39:13 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:14 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<133>Jan 22 11:39:14 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_41.
+<134>Jan 22 11:39:15 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<133>Jan 22 11:39:15 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_27.
+<133>Jan 22 11:39:16 [ontap-cluster-01-02:qos.latency.high:NOTICE]: Workload policy_group_5 latency is 154ms (Threshold: 20ms).
+<134>Jan 22 11:39:18 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 85 days, 20 hours.
+<134>Jan 22 11:39:19 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:39:20 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 190 days, 20 hours.
+<134>Jan 22 11:39:20 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<134>Jan 22 11:39:20 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<133>Jan 22 11:39:20 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_34.
+<133>Jan 22 11:39:20 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_17.
+<133>Jan 22 11:39:20 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_eng_9.
+<134>Jan 22 11:39:20 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<133>Jan 22 11:39:20 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_marketing_19.
+<134>Jan 22 11:39:20 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 55 days, 15 hours.
+<134>Jan 22 11:39:21 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:39:21 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_27.
+<131>Jan 22 11:39:21 [ontap-cluster-01-02:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_46 failed. Reason: Snapshot missing.
+<134>Jan 22 11:39:21 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:21 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:21 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 268 days, 23 hours.
+<133>Jan 22 11:39:21 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_20.
+<134>Jan 22 11:39:21 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<133>Jan 22 11:39:22 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_3.
+<133>Jan 22 11:39:23 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_38.
+<133>Jan 22 11:39:24 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_23.
+<134>Jan 22 11:39:25 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<133>Jan 22 11:39:26 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_40.
+<133>Jan 22 11:39:27 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_7.
+<133>Jan 22 11:39:27 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_37.
+<134>Jan 22 11:39:29 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 62 days, 8 hours.
+<134>Jan 22 11:39:30 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 142 days, 17 hours.
+<129>Jan 22 11:39:31 [ontap-cluster-01-02:chassis.fan.failure:ALERT]: Fan module 2 has failed. Chassis temperature rising.
+<134>Jan 22 11:39:32 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:33 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 256 days, 18 hours.
+<134>Jan 22 11:39:34 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 86 days, 6 hours.
+<134>Jan 22 11:39:34 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:39:35 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<133>Jan 22 11:39:36 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_25.
+<134>Jan 22 11:39:36 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<134>Jan 22 11:39:37 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:38 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<133>Jan 22 11:39:39 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_marketing_4.
+<134>Jan 22 11:39:40 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'net int show'.
+<133>Jan 22 11:39:41 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_10.
+<134>Jan 22 11:39:42 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:43 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<132>Jan 22 11:39:44 [ontap-cluster-02-02:monitor.volume.nearlyFull:WARNING]: Volume vol_eng_13 on aggregate aggr4_ssd is 97% full.
+<133>Jan 22 11:39:45 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_20.
+<134>Jan 22 11:39:45 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:45 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<134>Jan 22 11:39:45 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:45 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 21 days, 9 hours.
+<134>Jan 22 11:39:45 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 20 days, 4 hours.
+<134>Jan 22 11:39:46 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:39:47 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 63 days, 23 hours.
+<133>Jan 22 11:39:47 [ontap-cluster-01-02:qos.latency.high:NOTICE]: Workload policy_group_4 latency is 264ms (Threshold: 20ms).
+<134>Jan 22 11:39:49 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:39:50 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<133>Jan 22 11:39:51 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_hr_14.
+<134>Jan 22 11:39:52 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:39:52 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 154 days, 0 hours.
+<134>Jan 22 11:39:53 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'snapmirror update'.
+<134>Jan 22 11:39:53 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:54 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 271 days, 4 hours.
+<134>Jan 22 11:39:56 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 97 days, 12 hours.
+<133>Jan 22 11:39:56 [ontap-cluster-01-02:qos.latency.high:NOTICE]: Workload policy_group_3 latency is 449ms (Threshold: 20ms).
+<134>Jan 22 11:39:56 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 253 days, 22 hours.
+<134>Jan 22 11:39:56 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'vol show'.
+<133>Jan 22 11:39:56 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_43.
+<133>Jan 22 11:39:56 [ontap-cluster-02-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_finance_27.
+<134>Jan 22 11:39:56 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:39:57 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'net int show'.
+<134>Jan 22 11:39:58 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<132>Jan 22 11:39:59 [ontap-cluster-01-02:monitor.volume.nearlyFull:WARNING]: Volume vol_eng_46 on aggregate aggr3_sata is 98% full.
+<134>Jan 22 11:39:59 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 278 days, 15 hours.
+<134>Jan 22 11:40:00 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:01 [ontap-cluster-01-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'snapmirror update'.
+<134>Jan 22 11:40:01 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:02 [ontap-cluster-02-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:03 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 244 days, 2 hours.
+<134>Jan 22 11:40:04 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'vol show'.
+<133>Jan 22 11:40:04 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_hr_8.
+<134>Jan 22 11:40:04 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'lun map'.
+<133>Jan 22 11:40:04 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_46.
+<134>Jan 22 11:40:04 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 254 days, 3 hours.
+<134>Jan 22 11:40:04 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:04 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 35 days, 3 hours.
+<133>Jan 22 11:40:04 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_hr_32.
+<134>Jan 22 11:40:04 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 279 days, 17 hours.
+<134>Jan 22 11:40:04 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 35 days, 18 hours.
+<134>Jan 22 11:40:04 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkUp' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:06 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 12 days, 12 hours.
+<134>Jan 22 11:40:06 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<134>Jan 22 11:40:07 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 42 days, 11 hours.
+<133>Jan 22 11:40:07 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'deswizzler' started on volume vol_finance_47.
+<134>Jan 22 11:40:07 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:07 [ontap-cluster-01-01:kern.uptime.info:INFORMATIONAL]: System uptime is 79 days, 9 hours.
+<134>Jan 22 11:40:07 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 10 days, 18 hours.
+<134>Jan 22 11:40:07 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'net int show'.
+<134>Jan 22 11:40:07 [ontap-cluster-02-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'linkDown' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:07 [ontap-cluster-02-01:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'vol show'.
+<134>Jan 22 11:40:07 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 182 days, 2 hours.
+<133>Jan 22 11:40:07 [ontap-cluster-01-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_10.
+<131>Jan 22 11:40:08 [ontap-cluster-01-01:snapmirror.dst.updateFailed:ERROR]: Update of destination volume dp_vol_25 failed. Reason: Snapshot missing.
+<134>Jan 22 11:40:08 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 177 days, 12 hours.
+<134>Jan 22 11:40:09 [ontap-cluster-02-02:kern.uptime.info:INFORMATIONAL]: System uptime is 285 days, 21 hours.
+<133>Jan 22 11:40:10 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_eng_22.
+<134>Jan 22 11:40:12 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:13 [ontap-cluster-01-02:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'coldStart' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:13 [ontap-cluster-02-01:kern.uptime.info:INFORMATIONAL]: System uptime is 220 days, 7 hours.
+<134>Jan 22 11:40:14 [ontap-cluster-02-02:audit.cmd.create:INFORMATIONAL]: User 'ansible_svc' executed command 'lun map'.
+<134>Jan 22 11:40:16 [ontap-cluster-01-02:kern.uptime.info:INFORMATIONAL]: System uptime is 30 days, 0 hours.
+<133>Jan 22 11:40:17 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_1.
+<134>Jan 22 11:40:18 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'admin' executed command 'snapmirror update'.
+<134>Jan 22 11:40:18 [ontap-cluster-01-01:callhome.snmp.trap.sent:INFORMATIONAL]: An SNMP trap for event 'authFailure' was sent to '192.168.1.10'.
+<134>Jan 22 11:40:19 [ontap-cluster-01-02:audit.cmd.create:INFORMATIONAL]: User 'monitoring' executed command 'lun map'.
+<133>Jan 22 11:40:19 [ontap-cluster-02-01:wafl.scan.start:NOTICE]: WAFL scan 'snapshot_reclaim' started on volume vol_marketing_10.
+<133>Jan 22 11:40:20 [ontap-cluster-01-02:wafl.scan.start:NOTICE]: WAFL scan 'active_fcp' started on volume vol_finance_22.

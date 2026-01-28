@@ -1,0 +1,19 @@
+# ONTAP Intelligence Platform - Configuration
+
+system:
+  name: "NetApp ONTAP Enterprise Observer"
+  version: "2.0.0"
+  log_level: "INFO"
+
+ingestion:
+  mode: "tail" # Options: tail, replay, udp
+  source_file: "logs/ontap_ems.log"
+  replay_speed: 1.0 # 1.0 = Realtime, 10.0 = 10x speed (for replay)
+  poll_interval: 0.5
+
+intelligence:
+  anomaly_threshold: -0.6 # Isolation Forest score threshold
+  correlation_window_sec: 300 # 5 minutes
+
+topology:
+  auto_discovery: true # Learn assets from logs
